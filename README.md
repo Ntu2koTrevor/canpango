@@ -37,6 +37,7 @@ $ pip install -e .
 
 4. Setup database and run
 
+```
 $ cd beerapi
 $ ./manage.py migrate
 $ ./manage.py createsuperuser
