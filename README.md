@@ -10,7 +10,7 @@ Getting Started
 1. Clone the repo
 
 ```
-$ git clone https://github.com/Ntu2koTrevor/imozulu
+$ git clone https://github.com/Ntu2koTrevor/canpango
 $ cd conpango
 ```
 
